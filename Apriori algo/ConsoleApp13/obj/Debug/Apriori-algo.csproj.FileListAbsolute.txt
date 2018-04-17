@@ -1,0 +1,7 @@
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\Apriori-algo.csprojResolveAssemblyReference.cache
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\Apriori-algo.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Himanshu Singh\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
